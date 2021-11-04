@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#this comment is about how this script works
+
+netstat -l -p
